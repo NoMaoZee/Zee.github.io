@@ -1,6 +1,6 @@
 @media screen and (max-width: 1000px){
     p{
-        font-size: 0.9rem;
+        font-size: 1rem;
         line-height: 1.8rem;
     }
 
@@ -107,6 +107,9 @@
     .footer{
         padding: 2rem 0;
     }
+    .skills-list{
+        font-size: 0.9rem;
+    }
 }
 
 @media screen and (max-width: 640px){
@@ -116,5 +119,9 @@
     }
     .pre-title{
         font-size: 0.8rem;   
+    }
+
+    .skills-list{
+        font-size: 0.8rem;
     }
 }
