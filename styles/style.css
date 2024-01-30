@@ -285,6 +285,7 @@ nav ul li a{
     gap: 30px;
 }
 
+/* Portfolio Section  */
 .portfolio {
     position: relative;
     overflow: hidden;
@@ -305,7 +306,7 @@ nav ul li a{
 }
 
 .portfolio-info {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     left: 0;
     width: 100%;
