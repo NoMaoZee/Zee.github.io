@@ -1,6 +1,6 @@
 @media screen and (max-width: 1000px){
     p{
-        font-size: 1rem;
+        font-size: 0.9rem;
         line-height: 1.8rem;
     }
 
@@ -9,6 +9,9 @@
     }
 
     .skills-right ul il {
+        font-size: 0.9rem;
+    }
+    .skills-list{
         font-size: 0.9rem;
     }
 }
