@@ -208,6 +208,7 @@ nav ul li a{
 
 .hero-name span{
     color: var(--primaryIconColorText);
+    text-shadow: 0px 0px 5px #ffbc6b;
 }
 
 .hero-right img{
@@ -304,6 +305,7 @@ nav ul li a{
     height: auto;
     border-radius: 10px;
 }
+
 
 .portfolio-info {
     position: fixed;
